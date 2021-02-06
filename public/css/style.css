@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #151515;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  color: #3b996d;
+}
+
+#container {
+  border-radius: 50px;
+  background: #151515;
+  box-shadow: inset 5px 5px 10px #0e0e0e, inset -5px -5px 10px #1c1c1c;
+  padding: 5vh 2vw;
+  text-align: center;
+}
+
+#chargingStatus{
+  color: #3b996d;
+  font-size: 3vw;
+}
+
+img{
+  width: 9vw;
+}
