@@ -1,6 +1,8 @@
 ## Hi, I'm Sagar Sharma
 ## This is my new project called **_Battery Status_**. 
 
+### [Live Demo](https://sagar-sharma-7.github.io/battery-status/public/index.html)
+
 <br>
 
 <p align="center">
